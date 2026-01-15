@@ -30,16 +30,16 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  Jurassic World: Rebirth
+- **Why I chose this movie:**  I chose this movie because I loved the intense action and adventure, the storyline, the humor, and all the characters
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  tension
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
+- **Essential element:**  Giganotosaurus
 - **Why this element:**  
 
 **What NOT to Include:**  
@@ -47,18 +47,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - **Avoid:**  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
+- **Dominant color(s):**  red
+- **Accent color(s):**  black, green
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [ ] Close-up (face/detail) jungle leaves and weeds
+- [ ] Wide shot (landscape/setting) jungle that's scary
+- [ ] Medium shot (full figure) Stegosaurus
+- [ ] Object/symbol centered: T-rex
+- [ ] Character collage: Giganotosaurus, Velociraptor, Brachiosaurus
 
-- **Focal point description:**  
+- **Focal point description:** middle, T-rex 
 
 ---
 
