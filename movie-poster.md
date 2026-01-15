@@ -40,16 +40,16 @@ What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
 - **Essential element:**  Giganotosaurus
-- **Why this element:**  
+- **Why this element:**  It was the last, and hardest battle for the adventurers 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  Making the Dino's calm and collected, make it fear inducing
 
 **Color Palette:**  
 - **Dominant color(s):**  red
 - **Accent color(s):**  black, green
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Overall mood:** dark and omniscent(warm/cool/muted/vibrant/dark/bright)  
 
 **Composition:**  
 - [ ] Close-up (face/detail) jungle leaves and weeds
@@ -68,18 +68,36 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Create me a movie poster based of off Jurassic World: Rebirth. I chose this movie because I loved the intense action and adventure, the storyline, the humor, and all the characters. ONE feeling a viewer should get from my poster is a mix tension, mystery, and fright. ONE image, object, or visual that MUST appear on my poster is main dino the Giganotosaurus. Avoid Making the Dino's calm and collected, make it fear inducing for the viewer. The Color Palette: 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **Dominant color(s):**  red
+
+- **Accent color(s):**  black, green
+
+The Overall mood: is dark and omniscent
+
+and the Composition should be
+
+- [ ] Close-up (face/detail) jungle leaves and weeds
+
+- [ ] Wide shot (landscape/setting) jungle that's scary
+
+- [ ] Medium shot (full figure) Stegosaurus
+
+- [ ] Object/symbol centered: T-rex
+
+- [ ] Character collage: Giganotosaurus, Velociraptor, Brachiosaurus
+
+- **What worked:**  All the T-rex's where made properly and appropriately 
+- **What didn't work:**  It added a random symbol in the middle
+- **What I'll change for next attempt:**  Redraw the symbol in middle and turn it into a volcano or something more fitting.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**   Redraw the symbol in middle and turn it into a volcano or something more fitting. make everything the same tho, just regenerate.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The t-rex' were still made in great detail 
+- **What didn't work:**  It removed some of the foreground Dinos 
+- **What I'll change for next attempt:** Re add the Dino in the foreground 
 
 ---
 
