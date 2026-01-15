@@ -107,19 +107,19 @@ and the Composition should be
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Re add the Dino in the foreground, make it and add the main character Zora Bennett with a dino gun
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The character got added well
+- **What didn't work:** it lost some of its jungle aspect 
+- **What I'll change for next attempt:**  Add some more leaves in the surrounding 
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Add some more leaves in the surrounding and vary the dino types like i said Giganotosaurus, Velociraptor, Brachiosaurus keep Zora Bennett with the gun
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  It kept all the cool aspects with still making a jungle effect 
+- **What didn't work:**  It needs to vary the Dino types since they were almost all the same
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?) I chose attempt four because of the jungle effect and Dino hunter in the middle. I would have chosen attempt one but I felt it needed a person in the front to show that the adventurers were going head first into the dino situation.
 
 ---
 
